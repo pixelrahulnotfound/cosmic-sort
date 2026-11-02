@@ -18,3 +18,7 @@ current/
 HANDOUT.md
 __pycache__/
 *.pyc
+
+# never commit submissions or score reports
+submissions/*.csv
+submissions/*report*.json
