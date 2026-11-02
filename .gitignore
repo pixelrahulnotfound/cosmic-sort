@@ -1,0 +1,20 @@
+# competition data (never commit)
+train.csv
+test.csv
+sample_submission.csv
+*.zip
+*.bin
+*.npy
+*.npz
+*.ckpt
+
+# artifacts
+catboost_info/
+work/
+offload/
+ckpt/
+members/
+current/
+HANDOUT.md
+__pycache__/
+*.pyc
